@@ -9,36 +9,63 @@
 /*     margin-left: 200px; */
 /* } */
 
-.index {
-    color: #8abeb7;
-    /* color: #81a2be; */
-}
+/* .index { */
+/*     color: #8abeb7; */
+/*     /1* color: #81a2be; *1/ */
+/* } */
 
 
-.bio {
-    color: #cc6666
-}
+/* .bio { */
+/*     color: #cc6666 */
+/* } */
 
-.contact {
-    color: #f0c674;
-}
+/* .contact { */
+/*     color: #f0c674; */
+/* } */
 
-.impressum {
-color: #b294bb;
+/* .impressum { */
+/* color: #b294bb; */
+/* } */
+
+p {
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+    /* padding-bottom: */
+    /* display: inline; */
+    /* margin-top: 2.5%; */
+    /* /1* margin-bottom: 2.5%; *1/ */
+    /* margin-left: 30%; */
+    /* margin-right: 30%; */
+    /* /1* margin: auto; *1/ */
+    /* /1* font-family: Roboto; *1/ */
+    /* /1* font-size: 25px; *1/ */
+    /* /1* color: #c5c8c6; *1/ */
+    /* line-height: 1.5; */
+    /* /1* background-color: #1d1f21; *1/ */
+    /* width: 750px; */
+    /* /1* height: 50%; *1/ */
+    /* color: #eaeaea; */
+    /* background-color: #1d1f21; */
+    /* padding: 10px; */
+    /* border-width: 0px; */
+    /* border-style: solid; */
+    background-color: inherit;
+    color: inherit;
 }
 
 .text {
     /* display: inline; */
     margin-top: 2.5%;
-    margin-bottom: 2.5%;
-    margin-left: 25%;
-    margin-right: 25%;
+    /* margin-bottom: 2.5%; */
+    margin-left: 30%;
+    margin-right: 30%;
     /* margin: auto; */
     /* font-family: Roboto; */
     /* font-size: 25px; */
     /* color: #c5c8c6; */
+    line-height: 1.5;
     /* background-color: #1d1f21; */
-    /* width: 1250px; */
+    width: 750px;
     /* height: 50%; */
     /* padding: 10px; */
     /* border-width: 0px; */
@@ -48,23 +75,67 @@ color: #b294bb;
 .header {
     font-size: 30px;
     /* margin-top: 5%; */
-    margin-left: 20%;
-    margin-right: 20%;
+    text-decoration: none;
+    word-spacing: 0.5em;
+    font-weight: bold;
+    /* font-family: "Droid Sans"; */
+    /* border-width: 4px; */
+    /* text-align: center; */
+    /* border-color: #8abeb7; */
+    /* border-color: white; */
+    /* border-style: solid; */
+    /* width: 750px; */
+    margin-left: 30%;
+    margin-right: 30%;
     text-align: center;
 
 }
+
+h1 {
+    /* color: white; */
+    color: #d54e53;
+    /* color: #cc6666; */
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+h2 {
+    /* color: white; */
+    /* color: #cc6666; */
+    color: #d54e53;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+h3 {
+    /* color: white; */
+    /* color: #cc6666; */
+    color: #d54e53;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
 body {
-    /* font-family: "Droid Sans"; */
+    /* font-family: "Droid Serif"; */
+    font-family: "Droid Sans";
     /* font-family: "Roboto"; */
     /* font-family: "Roboto Mono"; */
     /* font-weight: "bold"; */
     /* font- */
     /* display: ; */
-    font-size: 16px;
+    font-size: 15px;
+    /* color: #d9dcda; */
+    /* background-color: #f0f0f0; */
+    /* color: #c5c8c6; */
+    /* color: white; */
+    /* background-color: black; */
+    /* color: #ffffff; */
+    color: #eaeaea;
+    background-color: #1d1f21;
+    /* background-color: #000000; */
     /* color: black; */
     /* background-color: white; */
-    color: #ffffff;
-    background-color: #1d1f21;
     /* margin: 10%; */
     /* width: 75%; */
     /* height: 50%; */
@@ -74,13 +145,18 @@ body {
     /* border-style: solid; */
 }
 
-/* a { */
-/*     text-decoration: none; */
-/*     /1* font-family: "DejaVu Sans"; *1/ */
-/*     /1* color: #c5c8c6; *1/ */
-/*     /1* background-color: #1d1f21; *1/ */
-/* } */
-/* /1* This is a comment, by the way *1/ */
+a {
+    text-decoration: none;
+    /* font-family: "DejaVu Sans"; */
+    color: #d9dcda;
+    /* color: #c5c8c6; */
+    /* color: black; */
+    /* background-color: white; */
+    /* color: white; */
+    /* background-color: black; */
+    background-color: #1d1f21;
+}
+/* This is a comment, by the way */
 
 /* p { */
 /*     line-height: 21px; */
@@ -254,3 +330,16 @@ body {
 /*     text-align: center; */
 /*     /1* border-style: solid; *1/ */
 /* } */
+
+/* #000000 Background */
+/* #2a2a2a Current Line */
+/* #424242 Selection */
+/* #eaeaea Foreground */
+/* #969896 Comment */
+/* #d54e53 Red */
+/* #e78c45 Orange */
+/* #e7c547 Yellow */
+/* #b9ca4a Green */
+/* #70c0b1 Aqua */
+/* #7aa6da Blue */
+/* #c397d8 Purple */

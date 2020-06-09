@@ -9,13 +9,14 @@
     </head>
     <body>
         <div class="header">
-            <a class="home" href="home.html">Home</a>
+            <a class="index" href="index.html">Home</a>
             <a class="bio" href="bio.html">Biography</a>
             <a class="contact" href="contact.html">Contact</a>
             <a class="impressum" href="impressum.html">Impressum</a>
         </div>
         <div class="text">
 
+            <h1>Home</h1>
             <p>
             sudo allows a permitted user to execute a command as the superuser or another user, as specified by the security policy.
             </p>
@@ -23,6 +24,8 @@
             <p>
             sudo supports a plugin architecture for security policies and input/output logging. Third parties can develop and distribute their own policy and I/O logging plugins to work seamlessly with the sudo front end. The default security policy is sudoers, which is configured via the file /etc/sudoers, or via LDAP. See the PLUGINS section for more information.
             </p>
+
+            <h2>Header</h2>
 
             <p>
             The security policy determines what privileges, if any, a user has to run sudo. The policy may require that users authenticate themselves with a password or another authentication mechanism. If authentication is required, sudo will exit if the user's password is not entered within a configurable time limit. This limit is policy-specific; the default password prompt timeout for the sudoers security policy is 5 minutes.
@@ -32,6 +35,7 @@
             Security policies may support credential caching to allow the user to run sudo again for a period of time without requiring authentication. The sudoers policy caches credentials for 5 minutes, unless overridden in sudoers(5). By running sudo with the -v option, a user can update the cached credentials without running a command.
             </p>
 
+            <h3>Subheader</h3>
             <p>
             When invoked as sudoedit, the -e option (described below), is implied.
             </p>

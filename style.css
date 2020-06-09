@@ -40,7 +40,8 @@ p {
     /* /1* font-family: Roboto; *1/ */
     /* /1* font-size: 25px; *1/ */
     /* /1* color: #c5c8c6; *1/ */
-    /* line-height: 1.5; */
+    /* line-height: 1.75; */
+    /* line-height: 2; */
     /* /1* background-color: #1d1f21; *1/ */
     /* width: 750px; */
     /* /1* height: 50%; *1/ */
@@ -63,9 +64,10 @@ p {
     /* font-family: Roboto; */
     /* font-size: 25px; */
     /* color: #c5c8c6; */
-    line-height: 1.5;
+    /* line-height: 1.5; */
+    line-height: 2;
     /* background-color: #1d1f21; */
-    width: 750px;
+    width: 700px;
     /* height: 50%; */
     /* padding: 10px; */
     /* border-width: 0px; */

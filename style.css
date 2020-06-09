@@ -1,0 +1,254 @@
+/* #navigation { */
+/*     position: absolute; */
+/*     top: 0; */
+/*     left: 0; */
+/*     width: 200px; */
+/* } */
+
+/* #content { */
+/*     margin-left: 200px; */
+/* } */
+
+.home {
+    color: #8abeb7;
+    /* color: #81a2be; */
+}
+
+
+.bio {
+    color: #cc6666
+}
+
+.contact {
+    color: #f0c674;
+}
+
+.impressum {
+color: #b294bb;
+}
+
+.text {
+    /* display: inline; */
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    /* margin: auto; */
+    /* font-family: Roboto; */
+    /* font-size: 25px; */
+    /* color: #c5c8c6; */
+    /* background-color: #1d1f21; */
+    /* width: 1250px; */
+    /* height: 50%; */
+    /* padding: 10px; */
+    /* border-width: 0px; */
+    /* border-style: solid; */
+}
+
+.header {
+    font-size: 30px;
+    /* margin-top: 5%; */
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+
+}
+body {
+    /* font-family: "Droid Sans"; */
+    font-family: "Roboto";
+    font-family: "Roboto Mono";
+    /* font-weight: "bold"; */
+    /* font- */
+    /* display: ; */
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #1d1f21;
+    /* margin: 10%; */
+    /* width: 75%; */
+    /* height: 50%; */
+    /* padding: 10px; */
+    /* border-width: 1px; */
+    /* text-align: center; */
+    /* border-style: solid; */
+}
+
+/* a { */
+/*     text-decoration: none; */
+/*     /1* font-family: "DejaVu Sans"; *1/ */
+/*     /1* color: #c5c8c6; *1/ */
+/*     /1* background-color: #1d1f21; *1/ */
+/* } */
+/* /1* This is a comment, by the way *1/ */
+
+/* p { */
+/*     line-height: 21px; */
+/* } */
+
+/* h1 { */
+/*     color: black; */
+/*     background-color: white; */
+/*     border-style: solid; */
+/*     border-color: gray; */
+/*     /1* font-size: 2em; *1/ */
+/*     border-width: 1px; */
+/*     margin: 10px; */
+/*     /1* margin-bottom: 7px; *1/ */
+/*     padding: 10px; */
+/*     /1* font-style: italic; *1/ */
+/*     text-align: left; */
+/*     /1* letter-spacing: 0.5em; *1/ */
+/*     /1* border-bottom-style: solid; *1/ */
+/*     /1* border-bottom-width: 0.5em; *1/ */
+/*     /1* border-bottom-color: #c00; *1/ */
+/* } */
+
+/* h2 { */
+/*     color: black; */
+/*     background-color: white; */
+/*     border-style: solid; */
+/*     border-color: gray; */
+/*     /1* font-size: 2em; *1/ */
+/*     border-width: 1px; */
+/*     margin: 10px; */
+/*     /1* margin-bottom: 7px; *1/ */
+/*     padding: 10px; */
+/*     /1* font-style: italic; *1/ */
+/*     text-align: left; */
+/*     /1* letter-spacing: 0.5em; *1/ */
+/*     /1* border-bottom-style: solid; *1/ */
+/*     /1* border-bottom-width: 0.5em; *1/ */
+/*     /1* border-bottom-color: #c00; *1/ */
+/* } */
+
+/* h3 { */
+/*     color: #999; */
+/*     font-size: 1.25em; */
+/* } */
+
+/* img { */
+/*     border-style: dashed; */
+/*     border-width: 2px; */
+/*     border-color: #ccc; */
+/* } */
+
+
+/* strong { */
+/*     font-style: italic; */
+/*     text-transform: uppercase; */
+/* } */
+
+/* li { */
+/*     color: #900; */
+/*     font-style: italic; */
+/* } */
+
+/* table { */
+/*     background-color: #ccc; */
+/* } */
+
+/* body { */
+/*   background-color: white; */
+/*   color: black; */
+/*   text-align: left; */
+/*   font-family: Roboto; */
+/*   font-size: 16pt; */
+/* width: 50%                     ; */
+/* height: 100%                     ; */
+/* border-color: red; */
+/* border: 1px; */
+
+/* margin: 1%; */
+/* padding: 1%; */
+/* } */
+/* h1 { */
+/*   color: red; */
+/* } */
+
+/* Colours & Borders 	 */
+/* color: red                       ; Element Colour - eg. red | #FF0000 */
+/* background-color: white          ; Background Colour of element */
+/* background-image: url(image.gif) ; Background Colour of element */
+/* border-color: yellow             ; Border Colour of element */
+/* border: 1px solid blue           ; Width, style and colour of border defined together */
+/* Text Styles 	 */
+/* text-align: left                 ; Horizontal Alignment - left | center | right */
+/* text-decoration: underline       ; Text Decorations - eg. none | underline | line-through */
+/* font-family: fontname            ; Font Face (Typeface) - eg. Verdana, Arial, Helvetica */
+/* font-size: 16pt                  ; Font Size or Height - eg. 12pt | 15px */
+/* font-weight: bold                ; Font Weight (Boldness) - eg. bold | normal | 200 */
+/* Size and Layout 	 */
+/* width: 400px                     ; Width of HTML element - eg. 100px | 50% */
+/* height: 100%                     ; Height of HTML element - eg. 20px | 100% */
+/* margin: 5px                      ; Margin - space around an element, or distance between two elements */
+/* margin-top: 1px                  ; Top Margin. Also try -bottom: -left: or -right: */
+/* padding: 5px                     ; Padding - distance between an elements contents and its border */
+/* padding-top: 1px                 ; Top Padding. Also try -bottom: -left: or -right: */
+
+/* h1 { */
+/*   background-color: #1d1f21; */
+/*   color: #c5c8c6; */
+/*   /1* text-align: left; *1/ */
+/*   font-family: Roboto; */
+/*   font-size: 16pt; */
+/*   } */
+
+/* body { */
+/*   background-color: #1d1f21; */
+/*   color: #c5c8c6; */
+/*   /1* text-align: left; *1/ */
+/*   font-family: Roboto; */
+/*   font-size: 16pt; */
+/*   } */
+
+/* .base00-bg { background-color: #1d1f21; } */
+/* .base01-bg { background-color: #282a2e; } */
+/* .base02-bg { background-color: #373b41; } */
+/* .base03-bg { background-color: #969896; } */
+/* .base04-bg { background-color: #b4b7b4; } */
+/* .base05-bg { background-color: #c5c8c6; } */
+/* .base06-bg { background-color: #e0e0e0; } */
+/* .base07-bg { background-color: #ffffff; } */
+/* .base08-bg { background-color: #cc6666; } */
+/* .base09-bg { background-color: #de935f; } */
+/* .base0A-bg { background-color: #f0c674; } */
+/* .base0B-bg { background-color: #b5bd68; } */
+/* .base0C-bg { background-color: #8abeb7; } */
+/* .base0D-bg { background-color: #81a2be; } */
+/* .base0E-bg { background-color: #b294bb; } */
+/* .base0F-bg { background-color: #a3685a; } */
+
+
+/* .base00 { color: #1d1f21; } */
+/* .base01 { color: #282a2e; } */
+/* .base02 { color: #373b41; } */
+/* .base03 { color: #969896; } */
+/* .base04 { color: #b4b7b4; } */
+/* .base05 { color: #c5c8c6; } */
+/* .base06 { color: #e0e0e0; } */
+/* .base07 { color: #ffffff; } */
+/* .base08 { color: #cc6666; } */
+/* .base09 { color: #de935f; } */
+/* .base0A { color: #f0c674; } */
+/* .base0B { color: #b5bd68; } */
+/* .base0C { color: #8abeb7; } */
+/* .base0D { color: #81a2be; } */
+/* .base0E { color: #b294bb; } */
+/* .base0F { color: #a3685a; } */
+
+/* #links { */
+/*     /1* display: inline; *1/ */
+/*     margin-top: 10%; */
+/*     margin-left: 25%; */
+/*     margin-right: 25%; */
+/*     margin: 10%; */
+/*     /1* font-family: "Roboto Mono"; *1/ */
+/*     /1* font-size: 25px; *1/ */
+/*     /1* color: #c5c8c6; *1/ */
+/*     /1* background-color: #1d1f21; *1/ */
+/*     /1* width: 75%; *1/ */
+/*     /1* height: 50%; *1/ */
+/*     /1* padding: 10px; *1/ */
+/*     /1* border-width: 0px; *1/ */
+/*     text-align: center; */
+/*     /1* border-style: solid; *1/ */
+/* } */
